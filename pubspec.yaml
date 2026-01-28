@@ -1,8 +1,8 @@
 name: flutter_adaptive_scaler
 description: "Automatically scale fonts, sizes, padding, icons, and UI elements across all devices, orientations, and platforms with real-time responsiveness."
-version: 1.0.0
-# repository: https://github.com/musawarhussain/flutter_adaptive_scaler
-# homepage: https://github.com/musawarhussain/flutter_adaptive_scaler
+version: 1.0.2
+repository: https://github.com/greelogix/flutter_scaler_package
+homepage: https://github.com/greelogix/flutter_scaler_package
 
 topics:
   - responsive

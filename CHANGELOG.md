@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.0.2
+
+* Added repository and homepage URLs pointing to GitHub.
+
 ## 1.0.1
 
 * Fixed package description length to meet pub.dev requirements.
