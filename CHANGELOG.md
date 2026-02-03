@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.0.3
+
+* Uploaded demo video to showcase features.
+
 ## 1.0.2
 
 * Added repository and homepage URLs pointing to GitHub.

@@ -1,3 +1,7 @@
+## 🎬 Demo
+
+![Quick Popup Demo](https://raw.githubusercontent.com/greelogix/quick_popup_manager-video/main/flutter_scaler_video.gif)
+
 # FlutterAdaptiveScaler
 
 [![pub package](https://img.shields.io/pub/v/flutter_adaptive_scaler.svg)](https://pub.dev/packages/flutter_adaptive_scaler)
